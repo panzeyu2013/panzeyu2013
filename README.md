@@ -26,19 +26,10 @@
 
 ## 👋 About Me · 关于我
 
-**中文**
-
-- 🛠️ 构建 **AI 编程工具**：Agent 工具链与 Harness 生态 —— dsh 桌面连接管理器、Codex 账号管理、MCP 服务器、agent 记忆系统、异步任务插件
-- 🔬 做 **科研**：视频理解方向（零样本视频描述）
-- 📷 业余 **摄影师**：维护自己的影像工作流 —— Nikon N-RAW / NEF 处理、选片与编目
-- 🎭 **昆曲爱好者**：维护 [KunquWiki](https://kunquwiki.tompp.me)，一个公开可协作的昆曲知识与演出信息站
-
-**English**
-
-- 🛠️ Building **AI tooling** — agent toolchains & harness ecosystem: dsh desktop session manager, Codex account manager, MCP servers, agent memory, async task plugins
-- 🔬 Doing **research** in video understanding (zero-shot video captioning)
-- 📷 Amateur **photographer** — Nikon N-RAW / NEF workflows, photo culling & cataloging
-- 🎭 **Kunqu enthusiast** — maintaining [KunquWiki](https://kunquwiki.tompp.me), an open collaborative knowledge base & performance calendar
+- 🛠️ 构建 **AI 编程工具**：Agent 工具链与 Harness 生态（dsh 桌面连接管理器、Codex 账号管理、MCP 服务器、agent 记忆系统、异步任务插件）· *Building AI tooling — agent toolchains & harness ecosystem (dsh desktop session manager, Codex account manager, MCP servers, agent memory, async task plugins)*
+- 🔬 做 **科研**：视频理解方向（零样本视频描述）· *Research in video understanding (zero-shot video captioning)*
+- 📷 业余 **摄影师**：维护自己的影像工作流（Nikon N-RAW / NEF 处理、选片与编目）· *Amateur photographer — Nikon N-RAW / NEF workflows, photo culling & cataloging*
+- 🎭 **昆曲爱好者**：维护 [KunquWiki](https://kunquwiki.tompp.me)，一个公开可协作的昆曲知识与演出信息站 · *Kunqu enthusiast — maintaining KunquWiki, an open collaborative knowledge base & performance calendar*
 
 > **Now** · 最近在做：`KunquWiki` · `dsh-chamber` · `Gather`
 
@@ -66,7 +57,7 @@
 - [dsh-chamber](https://github.com/panzeyu2013/dsh-chamber) — DeepSeek Harness (dsh) 的本地桌面连接管理器 · *Desktop session/workspace manager for dsh*（TypeScript）
 - [Codex-Manager](https://github.com/panzeyu2013/Codex-Manager) — Codex CLI 账号管理与切换，本地网关转发 · *Codex CLI account manager with local gateway proxy*（Rust）
 - [openchamber](https://github.com/panzeyu2013/openchamber) — OpenCode AI Agent 的桌面与 Web 界面 · *Desktop & web interface for OpenCode*（TypeScript · fork）
-- [memcurio](https://github.com/panzeyu2013/memcurio) — AI 编程 agent 的记忆与上下文管理系统 · *Harness-agnostic memory & context management for AI agents*（TypeScript · MCP）
+- [memcurio](https://github.com/panzeyu2013/memcurio) — AI 编程 agent 的记忆与上下文管理系统 · *Harness-agnostic memory & context management*（TypeScript · MCP）
 - [TaskWake](https://github.com/panzeyu2013/TaskWake) — Harness 内异步任务插件：发出即忘，完成即醒 · *Async task plugin — dispatch, defer, wake*（TypeScript）
 - [sharelatex-mcp](https://github.com/panzeyu2013/sharelatex-mcp) — 自建 ShareLaTeX 的 MCP 服务器 · *MCP server for self-hosted ShareLaTeX*（Python）
 
@@ -94,13 +85,13 @@
 ## 🎭 KunquWiki · 昆曲百科
 
 > 昆曲，百戏之祖 —— 中国最典雅的戏曲声腔之一。
-> *Kunqu, "the ancestor of a hundred operas".*
+> *Kunqu, "the ancestor of a hundred operas" — China's most refined opera style.*
 
-一个**公开可协作**的昆曲知识与演出信息站：剧目、人物、院团、剧场、演出记录。所有编辑以提案形式提交、经审核后发布，力求开放、透明、可追溯。
+一个**公开可协作**的昆曲知识与演出信息站：剧目、人物、院团、剧场、演出记录。所有编辑以提案形式提交、经审核后发布，力求开放、透明、可追溯。· *An openly collaborative Kunqu knowledge & performance site — every edit proposed, reviewed, then published; open and traceable.*
 
-- 📊 **2372** 词条 · **320** 剧目 · **399** 人物 · **12** 院团 · **120+** 近期演出（持续更新）
+- 📊 **2300+** 词条 · **320** 剧目 · **399** 人物 · **12** 院团 · *2300+ entries · 320 plays · 399 people · 12 troupes*
 - 🔗 https://kunquwiki.tompp.me
-- 💡 非开源 · 社区协作制
+- 💡 非开源 · 社区协作制 · *Not open source · community-driven*
 
 ---
 
@@ -108,9 +99,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=panzeyu2013&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=panzeyu2013&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panzeyu2013&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=panzeyu2013&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages" />
 
 </div>
 

@@ -55,11 +55,14 @@
 ### 🤖 AI Tools · AI 工具
 
 - [dsh-chamber](https://github.com/panzeyu2013/dsh-chamber) — DeepSeek Harness (dsh) 的本地桌面连接管理器 · *Desktop session/workspace manager for dsh*（TypeScript）
-- [Codex-Manager](https://github.com/panzeyu2013/Codex-Manager) — Codex CLI 账号管理与切换，本地网关转发 · *Codex CLI account manager with local gateway proxy*（Rust）
-- [openchamber](https://github.com/panzeyu2013/openchamber) — OpenCode AI Agent 的桌面与 Web 界面 · *Desktop & web interface for OpenCode*（TypeScript · fork）
 - [memcurio](https://github.com/panzeyu2013/memcurio) — AI 编程 agent 的记忆与上下文管理系统 · *Harness-agnostic memory & context management*（TypeScript · MCP）
 - [TaskWake](https://github.com/panzeyu2013/TaskWake) — Harness 内异步任务插件：发出即忘，完成即醒 · *Async task plugin — dispatch, defer, wake*（TypeScript）
 - [sharelatex-mcp](https://github.com/panzeyu2013/sharelatex-mcp) — 自建 ShareLaTeX 的 MCP 服务器 · *MCP server for self-hosted ShareLaTeX*（Python）
+
+### 🤝 Contributing · 贡献
+
+- [Codex-Manager](https://github.com/panzeyu2013/Codex-Manager) — Codex CLI 账号管理与切换，本地网关转发 · *Codex CLI account manager with local gateway proxy*（Rust · fork）
+- [openchamber](https://github.com/panzeyu2013/openchamber) — OpenCode AI Agent 的桌面与 Web 界面 · *Desktop & web interface for OpenCode*（TypeScript · fork）
 
 ### 🔬 Research · 科研
 

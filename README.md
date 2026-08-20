@@ -63,6 +63,7 @@
 
 ### 🔬 Research · 科研
 
+- [MVP](https://github.com/ZJUSCL/MVP) — CVPR 2026 · 多视角预测提升 GUI 定位（第二作者）· *CVPR 2026 · Multiple View Prediction improves GUI grounding (2nd author)*（Python）
 - [SGCap](https://github.com/panzeyu2013/SGCap) — 零样本视频描述 SGCap 官方实现 · *Official implementation: Decoding Semantic Group for Zero-shot Video Captioning*（Python）
 
 ### 📷 Photography · 摄影

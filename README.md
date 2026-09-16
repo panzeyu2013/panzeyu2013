@@ -103,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=panzeyu2013&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=450" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=panzeyu2013&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=450&show=prs_merged,prs_merged_percentage,all_time_contribs" alt="GitHub Stats" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=panzeyu2013&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=450" alt="Top Languages" />
 

@@ -103,15 +103,9 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=panzeyu2013&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=450&show=prs_merged,prs_merged_percentage,all_time_contribs" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=panzeyu2013&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=450&line_height=20&show=prs_merged,prs_merged_percentage,all_time_contribs" alt="GitHub Stats" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=panzeyu2013&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=450" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=panzeyu2013&theme=github-dark-blue&hide_border=true&background=0d1117&card_width=450" alt="GitHub Streak" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=panzeyu2013&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=420" alt="Top Languages" /> <img src="https://streak-stats.demolab.com/?user=panzeyu2013&theme=github-dark-blue&hide_border=true&background=0d1117&card_width=420&card_height=190" alt="GitHub Streak" />
 
 </div>
 
